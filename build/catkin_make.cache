@@ -1,0 +1,2 @@
+chatter
+-DCATKIN_DEVEL_PREFIX=/home/user/network_test/devel -DCMAKE_INSTALL_PREFIX=/home/user/network_test/install -G Unix Makefiles

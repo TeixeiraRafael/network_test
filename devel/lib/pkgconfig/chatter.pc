@@ -1,0 +1,8 @@
+prefix=/home/user/network_test/devel
+
+Name: chatter
+Description: Description of chatter
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
